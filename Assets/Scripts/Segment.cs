@@ -24,7 +24,7 @@ public class Segment : MonoBehaviour
             {
                 firstPress = true;
                 from = this;
-                transform.localScale = scale * 1.2f;
+                transform.localScale = scale * 1.1f;
             }
             else
             {

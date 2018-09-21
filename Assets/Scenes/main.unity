@@ -265,8 +265,9 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 68ca459ced00ce8468f6d453ef938f1a, type: 3}
   segmentPrefab: {fileID: 1637407630647556, guid: dc53261f607c1c146b44bbc710afc636,
     type: 2}
-  rows: 2
-  columns: 2
+  rows: 5
+  columns: 5
+  k: 3.5
 --- !u!114 &958298855
 MonoBehaviour:
   m_ObjectHideFlags: 0
